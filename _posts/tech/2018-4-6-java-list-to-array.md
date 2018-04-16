@@ -16,6 +16,7 @@ Either:
     Foo[] array = list.toArray(new Foo[list.size()]);
     或者Foo[] array = list.toArray(new Foo[0]);
     若是：Foo[] array = list.toArray()则返回Object[]
+
 or:
 
     Foo[] array = new Foo[list.size()];
