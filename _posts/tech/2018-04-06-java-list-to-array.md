@@ -3,7 +3,8 @@ layout: post
 title: Java List to Array
 category: 技术
 tags: Java
-keywords: List,Array
+keywords: 'List,Array'
+published: true
 ---
 
 
