@@ -1,6 +1,9 @@
 ---
-tags:python
-title:python中的迭代器和可迭代对象
+layout: post
+title: python中的迭代器和可迭代对象
+category: 技术
+tags: python
+keywords: python
 ---
 
 ## 区分 
