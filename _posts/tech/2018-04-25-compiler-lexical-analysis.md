@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: 编译原理之词法分析
+category: 技术
+tags: 编译原理
+keywords: NFA,DFA,正规式
 ---
 ## 词法分析的问题
 
