@@ -22,6 +22,7 @@ or:
 
     Foo[] array = new Foo[list.size()];
     list.toArray(array); // fill the array
+    
 ### 基本数据类型
 
     List<Integer> list = ...;
