@@ -7,7 +7,7 @@ keywords: 'List,Array'
 published: true
 ---
 
-
+$$ \alpha $$
 分为两种情况，引用类型或者基本数据类型。
 引用类型可以直接调用Java函数，基本数据类型需要一个一个的赋值。
 
